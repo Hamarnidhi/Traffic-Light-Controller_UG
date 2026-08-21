@@ -1,4 +1,4 @@
-# Traffic-Light-Controller_UG
+# Traffic-Light-Controller
 ## Experiment: Write and Simulate Traffic Light Controller using Verilog HDL and Verify with Testbench
 
 ## Aim
